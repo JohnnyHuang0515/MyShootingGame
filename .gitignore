@@ -97,6 +97,9 @@ Thumbs.db
 *.swo
 *~
 
+# Kiro AI assistant files
+.kiro/
+
 # Logs
 logs
 *.log
