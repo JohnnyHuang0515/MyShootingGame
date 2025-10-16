@@ -1,0 +1,21 @@
+{
+    "name": "space-shooter-game",
+    "version": "1.0.0",
+    "description": "A web-based space shooting game",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx http-server -p 3000 -o",
+        "dev": "npx http-server -p 3000 -o -c-1"
+    },
+    "keywords": [
+        "game",
+        "javascript",
+        "canvas",
+        "shooter"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "http-server": "^14.1.1"
+    }
+}
